@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*_report.md
+*_report.json
+*.exe
+*.dll
+venv/
+.venv/
+.DS_Store
