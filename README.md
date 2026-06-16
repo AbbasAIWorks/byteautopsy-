@@ -28,7 +28,7 @@ Most static analysis tools either (a) only dump raw PE data with no interpretati
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/byteautopsy.git
+git clone https://github.com/AbbasAIWorks/byteautopsy-.git
 cd byteautopsy
 pip install -r requirements.txt
 ```
